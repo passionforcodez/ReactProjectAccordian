@@ -1,0 +1,17 @@
+/* src/styles/AccordionItem.css */
+.accordion-item.active {
+    box-shadow: 0 2px 12px rgba(15, 248, 248, 0.548);
+    transform: scale(1.02);
+  }
+  
+  .accordion-title {
+    font-size: 18px;
+    font-weight: bold;
+    padding-left: 20px;
+    background-color: #0069d9;
+  }
+  
+  .accordion-title:hover {
+    background-color: #0056b3;
+  }
+  
